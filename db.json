@@ -289,11 +289,5 @@
         "photo": "https://www.carolinapest.com/wp-content/uploads/2022/11/birds.jpg"
       }
     ],
-    "contact":[
-        {
-          "id": "1",
-          "name": "John",
-          "mobile":"9598125005"
-        }
-      ]
+
   }
